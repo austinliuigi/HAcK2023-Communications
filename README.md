@@ -100,7 +100,7 @@ void loop() {
 }
 ```
 ``` html
-<!-- html_file.js -->
+<!-- html_file.html -->
 
 <!-- ... -->
 <p id="temperature"></p>  <!-- this will be populated with the sensor data -->
